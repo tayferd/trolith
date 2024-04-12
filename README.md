@@ -1,2 +1,2 @@
 # trolith
-Essentially a chess game, a chess game player except the actual chess rules are a custom sort. 
+Essentially a virtual table top, with a grid except the actual chess rules are a custom sort. 
