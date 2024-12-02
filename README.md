@@ -1,2 +1,2 @@
 # trolith
-Essentially a virtual table top, with a grid except the actual chess rules are a custom sort. 
+what started as a simple kernal game that went too deep
